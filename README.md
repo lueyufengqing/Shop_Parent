@@ -1,0 +1,2 @@
+# Shop_Parent
+基于SPringBoot+SpringCloud实现的一站式微服务解决方案
